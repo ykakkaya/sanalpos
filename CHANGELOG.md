@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.5](https://github.com/evrenonur/sanalpos/compare/v1.0.4...v1.0.5) (2026-03-06)
+
+### 🐛 Hata Düzeltmeleri
+
+* update ZiraatPayGateway test URLs ([5ccfcdd](https://github.com/evrenonur/sanalpos/commit/5ccfcddfd8f94407083aa690ac0996d288ff4081))
+
 ## [1.0.4](https://github.com/evrenonur/sanalpos/compare/v1.0.3...v1.0.4) (2026-02-25)
 
 ### 🐛 Hata Düzeltmeleri
