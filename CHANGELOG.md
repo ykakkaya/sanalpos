@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/evrenonur/sanalpos/compare/v1.0.5...v1.1.0) (2026-04-12)
+
+### 🚀 Yeni Özellikler
+
+* **deps:** update PHP requirement to 8.3 and improve composer.json formatting ([1132880](https://github.com/evrenonur/sanalpos/commit/113288085ab9168c35bd5aea81ae33c26b8cbc1f))
+* **deps:** upgrade to Laravel 13 and PHP 8.3 ([901b784](https://github.com/evrenonur/sanalpos/commit/901b7849ea7dddefe3fd1ed81bb31d0a5469cc91))
+
 ## [1.0.5](https://github.com/evrenonur/sanalpos/compare/v1.0.4...v1.0.5) (2026-03-06)
 
 ### 🐛 Hata Düzeltmeleri
